@@ -9,7 +9,7 @@ else {
 
 android {
     if (buildAsApplication) {
-        namespace "org.scape2003.mudclient"
+        namespace "org.scape2003.mudclient.classic"
     }
     compileSdkVersion 34
     defaultConfig {
